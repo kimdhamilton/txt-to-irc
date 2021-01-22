@@ -10,7 +10,6 @@ npm link
 
 ## Run
 
-Example:
 ```
 txt2irc -f <filename> -d <date formatted as yyyy-mm-dd>
 ```
